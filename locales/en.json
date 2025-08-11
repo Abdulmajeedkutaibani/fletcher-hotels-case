@@ -1,0 +1,74 @@
+{
+  "login": {
+    "title": "Welcome to My Fletcher",
+    "subtitle": "Enter your email to continue.",
+    "email": "Email address",
+    "password": "Password",
+    "continue": "Continue",
+    "error": "Invalid credentials",
+    "register": "Create account",
+    "forgot": "Forgot password?",
+    "freeBenefits": "FREE BENEFITS",
+    "whyMyFletcher": "Why MyFletcher?",
+    "benefit1": "The highest discount",
+    "benefit2": "Book easily",
+    "benefit3": "Manage bookings",
+    "benefitMore": "And much more..",
+    "quickSetup": "Done in 30 seconds!",
+    "copyright": "©2023 Fletcher Exploitations B.V."
+  },
+  "register": {
+    "title": "Register",
+    "subtitle": "Create a My Fletcher account and enjoy benefits.",
+    "firstName": "First name",
+    "infix": "Middle (optional)",
+    "lastName": "Last name",
+    "email": "Email",
+    "password": "Password",
+    "create": "Create account",
+    "haveAccount": "Already have an account? Go to login",
+    "titleField": "Title",
+    "mrs": "Mrs.",
+    "mr": "Mr.",
+    "passwordHint": "Minimum 8 characters.",
+    "acceptTerms": "I agree to the terms."
+  },
+  "forgot": {
+    "title": "Forgot password?",
+    "subtitle": "Enter your email to request a new password.",
+    "reset": "Reset password",
+    "remember": "I remember now"
+  },
+  "hotels": {
+    "title": "Find and book your favorite Fletcher Hotel",
+    "available": "{count} hotels available",
+    "moreInfo": "More info",
+    "chooseDate": "Choose date"
+  },
+  "hotelCard": {
+    "perPersonPerNight": "P.p. per night",
+    "exclBreakfast": "Excluding breakfast",
+    "feature1": "Located on a 14-hectare estate",
+    "feature2": "Indoor and outdoor pool and sauna",
+    "feature3": "Known as nature boulevard and Bieszenplaats",
+    "ratingLabel": "Pleasant",
+    "reviews": "reviews"
+  },
+  "filters": {
+    "province": "Province",
+    "theme": "Theme",
+    "surroundings": "Nearby",
+    "priceSort": "Price - ascending"
+  },
+  "common": {
+    "loading": "Loading...",
+    "empty": "No results",
+    "logout": "Logout",
+    "language": "Language"
+  },
+  "footer": {
+    "terms": "Terms and conditions",
+    "cookies": "Cookie statement",
+    "privacy": "Privacy policy"
+  }
+}

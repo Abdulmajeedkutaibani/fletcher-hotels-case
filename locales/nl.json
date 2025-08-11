@@ -1,0 +1,74 @@
+{
+  "login": {
+    "title": "Welkom bij Mijn Fletcher",
+    "subtitle": "Vul uw e-mailadres in om verder te gaan.",
+    "email": "E-mailadres",
+    "password": "Wachtwoord",
+    "continue": "Ga verder",
+    "error": "Onjuiste inloggegevens",
+    "register": "Account aanmaken",
+    "forgot": "Wachtwoord vergeten?",
+    "freeBenefits": "GRATIS VOORDELEN",
+    "whyMyFletcher": "Waarom MijnFletcher?",
+    "benefit1": "De hoogste korting",
+    "benefit2": "Eenvoudig boeken",
+    "benefit3": "Boekingen beheren",
+    "benefitMore": "En nog veel meer..",
+    "quickSetup": "Binnen 30 seconden geregeld!",
+    "copyright": "©2023 Fletcher Exploitaties B.V."
+  },
+  "register": {
+    "title": "Registreren",
+    "subtitle": "Maak nu een Mijn Fletcher account aan en profiteer.",
+    "firstName": "Voornaam",
+    "infix": "tussenvoegsel",
+    "lastName": "Achternaam",
+    "email": "E-mailadres",
+    "password": "Wachtwoord",
+    "create": "Account aanmaken",
+    "haveAccount": "Heeft u al een account? Ga naar inloggen",
+    "titleField": "Titel",
+    "mrs": "Mevr.",
+    "mr": "Dhr.",
+    "passwordHint": "Minimaal 8 tekens.",
+    "acceptTerms": "Ik stem in met de voorwaarden."
+  },
+  "forgot": {
+    "title": "Wachtwoord vergeten?",
+    "subtitle": "Vul uw e-mailadres in om een nieuw wachtwoord aan te vragen.",
+    "reset": "Reset wachtwoord",
+    "remember": "Ik weet het alweer"
+  },
+  "hotels": {
+    "title": "Vind en boek jouw favoriete Fletcher Hotel",
+    "available": "{count} hotels beschikbaar",
+    "moreInfo": "Meer info",
+    "chooseDate": "Kies uw datum"
+  },
+  "hotelCard": {
+    "perPersonPerNight": "P.p. per nacht",
+    "exclBreakfast": "Exclusief ontbijt",
+    "feature1": "Gelegen op een 14 hectare groot landgoed",
+    "feature2": "Binnen- en buitenzwembad en sauna",
+    "feature3": "Bekend als natuurboulevard en Bieszenplaats",
+    "ratingLabel": "Aangenaam",
+    "reviews": "reviews"
+  },
+  "filters": {
+    "province": "Provincie",
+    "theme": "Thema",
+    "surroundings": "In de omgeving van",
+    "priceSort": "Prijs - oplopend"
+  },
+  "common": {
+    "loading": "Laden...",
+    "empty": "Geen resultaten gevonden",
+    "logout": "Uitloggen",
+    "language": "Taal"
+  },
+  "footer": {
+    "terms": "Algemene voorwaarden",
+    "cookies": "Cookie verklaring",
+    "privacy": "Privacybeleid"
+  }
+}

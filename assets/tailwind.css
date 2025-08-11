@@ -1,0 +1,7 @@
+@import 'tailwindcss';
+
+/* Tailwind v4 theme tokens migrated from legacy config */
+@theme {
+  --color-primary: #005bac;
+  --color-accent: #0ea5e9;
+}

@@ -1,0 +1,36 @@
+[
+  {
+    "id": 1,
+    "name": "Fletcher Hotel-Restaurant Victoria-Hoenderloo",
+    "city": "Hoenderloo",
+    "province": "Gelderland",
+    "pricePerNight": 31.03,
+    "rating": 6.8,
+    "reviews": 148,
+    "facilities": [
+      "Wi-Fi",
+      "Zwembad",
+      "Fietsverhuur",
+      "Restaurant",
+      "Sauna"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1566073771259-6a8506099945?q=80&w=1470&auto=format&fit=crop"
+  },
+  {
+    "id": 2,
+    "name": "Fletcher Hotel Amsterdam",
+    "city": "Amsterdam",
+    "province": "Noord-Holland",
+    "pricePerNight": 31.03,
+    "rating": 6.8,
+    "reviews": 148,
+    "facilities": [
+      "Wi-Fi",
+      "Sauna",
+      "Fietsverhuur",
+      "Restaurant",
+      "Gym"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1501117716987-c8e3f910d7b3?q=80&w=1470&auto=format&fit=crop"
+  }
+]
